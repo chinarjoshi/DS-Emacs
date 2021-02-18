@@ -15,9 +15,9 @@
     <br />
     <a href="https://youtu.be/r9-8qcNwKmk">View Demo</a>
     ·
-    <a href="https://github.com/cjoshi7//DS-Emacs">Report Bug</a>
+    <a href="https://github.com/cjoshi7/DS-Emacs">Report Bug</a>
     ·
-    <a href="https://github.com/cjoshi7//DS-Emacs">Request Feature</a>
+    <a href="https://github.com/cjoshi7/DS-Emacs">Request Feature</a>
   </p>
 </p>
 
@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://github.com/cjoshi7/DS-Emacs">
-    <img src="images/demo.png" alt="example-image" width=800 height=500>
+    <img src="images/demo.png" alt="example-image" width=450 height=550>
   </a>
 </p>
 
