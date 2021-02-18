@@ -1,7 +1,7 @@
 <br />
     
 <p align="center">
-  <a href="https://github.com/cjoshi7/meteorological-query-tool">
+  <a href="https://github.com/cjoshi7/DS-Emacs">
     <img src="images/icon.png" alt="Logo" width="150" height="150">
   </a>
 
@@ -10,14 +10,14 @@
   <p align="center">
     Edit abstract data structures through vim-inspired commands on the terminal
     <br />
-    <a href="https://github.com/cjoshi7/covid19-date-selector"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/cjoshi7/DS-Emacs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://youtu.be/r9-8qcNwKmk">View Demo</a>
     ·
-    <a href="https://github.com/cjoshi7/meteorological-query-tool">Report Bug</a>
+    <a href="https://github.com/cjoshi7//DS-Emacs">Report Bug</a>
     ·
-    <a href="https://github.com/cjoshi7/meteorological-query-tool">Request Feature</a>
+    <a href="https://github.com/cjoshi7//DS-Emacs">Request Feature</a>
   </p>
 </p>
 
@@ -50,8 +50,8 @@
 ## About The Project
 
 <p align="center">
-  <a href="https://github.com/cjoshi7/meteorological-query-tool">
-    <img src="images/demo.PNG" alt="example-image" width=800 height=500>
+  <a href="https://github.com/cjoshi7/DS-Emacs">
+    <img src="images/demo.png" alt="example-image" width=800 height=500>
   </a>
 </p>
 
@@ -75,38 +75,15 @@ I created my first deployable web API and made a visually appealing application 
 ### What I learned
 I learned the fundamentals of data science through cleaning and filtering data and how to make useful visualizations by taking advantage of python's many data science libraries. I also learned how to use a new web application framework with Dash.
 
-
-### Built With
-* [Flask](https://plotly.com/dash)
-* [SQLite3](https://getbootstrap.com)
-* [Bootstrap](https://bootstrap.com)
-* [jQuery](https://jquery.com)
-
 ## Getting Started
-
-No API key is needed to access the tool, so the application may be locally run through the python file.
-
-### Prerequisites
-
-The Flask framework and SQLite3 RDBMS must be installed as a prerequisite.
-* pip
-  ```sh
-  pip install requirements.txt
-  ```
-
-### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/cjoshi7/covid19-date-selector
+   git clone https://github.com/cjoshi7/DS-Emacs
    ```
-2. Install prerequisites
+2. Run the precompiled binary
    ```sh
-   pip install requirements.txt
-   ```
-4. Initialize a flask development server
-   ```JS
-   flask run
+   ./DS-Emacs/data <txt file name>
    ```
 
 
@@ -122,7 +99,7 @@ _For more examples, please refer to the [Documentation](https://github.com/cjosh
 <!-- ROADMAP -->
 ## Roadmap
 
-__See the [open issues](https://github.com/cjoshi7/covid19-date-selector) for a list of proposed features (and known issues).__
+__See the [open issues](https://github.com/cjoshi7/DS-Emacs) for a list of proposed features (and known issues).__
 ## TODO ##
 * Manipulate the DOM using jQuery and AJAX calls. When the submit button is pressed, make a GET request to the server using the input fields.
     * PROBLEM: When the HTML form is submitted, the corresponding JS event listener doesnot reccognize the event, likely due to syntax error because of confusion between element vs id JS syntax. Figure out how to properly select DOM elements.
