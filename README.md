@@ -27,9 +27,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -51,17 +48,14 @@
 
 <p align="center">
   <a href="https://github.com/cjoshi7/DS-Emacs">
-    <img src="images/demo.png" alt="example-image" width=450 height=550>
+    <img src="images/demo.png" alt="example-image" width=450 height=575>
   </a>
 </p>
 
 This is a C++ terminal application made to familiarize myself with abstract data structures and the concept of computational complexity. The purpose is to replicate the standard template library's hash table and create a trie from scratch.
 
-### Inspiration
-While researching for COVID-19 data, I noticed that all of the popular visualization resources either only showed the [current situation](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html), or showed a [quick timeline](https://kitware.github.io/covid-19-vis/). This is not very helpful for researching the number of cases in a specific county on any day as it provides too general of a visualization. Thus, I created a day-by-day visualization tool that allows researchers to query the data for a specific day in a user friendly and visually appealing way.
-
 ### What it does
-This is a web API to allow the user to visualize a snapshot of the COVID-19 situation in the USA on a specific day. The user can see exactly how many cases there were in a specific county in this snapshot of time. 
+This application allows the user to manipulate massive data sets with vim-inspired macros.
 
 ### How I built it
 This application is built using Dash with Python, the Plotly library to generate the choropleth map, and the Bootstrap framework to quickly develop the CSS. The New York Time's COVID-19 dataset was used along with a JSON map of the United States from Plotly.
