@@ -1,3 +1,8 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT LOGO -->
 <br />
     
 <p align="center">
@@ -27,6 +32,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -37,7 +45,9 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -94,27 +104,32 @@ _For more examples, please refer to the [Documentation](https://github.com/cjosh
 ## Roadmap
 
 __See the [open issues](https://github.com/cjoshi7/DS-Emacs) for a list of proposed features (and known issues).__
+
 ## TODO ##
 * Manipulate the DOM using jQuery and AJAX calls. When the submit button is pressed, make a GET request to the server using the input fields.
     * PROBLEM: When the HTML form is submitted, the corresponding JS event listener doesnot reccognize the event, likely due to syntax error because of confusion between element vs id JS syntax. Figure out how to properly select DOM elements.
 * Allow a range of dates to be selected on the HTML file and render coordinate plot using the database response. Use this instead of table.
 * Change the padding and color of the Bootstrap classes in styles.css to center the input fields and make the background sky blue.
 <br>
-<p>
-  The following features will be implemented in the indefinite future:
-  <ol>
-    <li>
-      Expanded dataset to include:
-      <ul>
-        <li>Mask usage</li>
-        <li>Population density</li>
-        <li>Demographic breakdown</li>
-      </ul>
-    </li>
-    <li>Dark theme through altered CSS</li>
-    <li>An option to use the program in the command line</li>
-  </ol>
-</p>
+
+The following features will be implemented in the indefinite future:
+1. Expanded dataset to include:
+    - Mask usage
+    - Population Density
+    - Demographic breakdown
+2.  Dark theme
+3.  An option to use the program in the command line
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Any contributions to extend features are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/newFeature`)
+3. Commit your Changes (`git commit -m 'Add NewFeature'`)
+4. Push to the Branch (`git push origin feature/newFeature`)
+5. Open a Pull Request
 
 <!-- CONTACT -->
 ## Contact
@@ -123,20 +138,22 @@ Chinar Joshi - chinarjoshi7@gmail.com
 
 Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.com/cjoshi7/covid19-date-selector)
 
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Virus Icon](https://dndi.org/diseases/covid-19/target-product-profile/)
+* [Readme Template](https://github.com/othneildrew/Best-README-Template)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Animate.css](https://daneden.github.io/animate.css)
+* [Loaders.css](https://connoratherton.com/loaders)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://linkedin.com/in/chinarjoshi
+[product-screenshot]: images/deaths.png
