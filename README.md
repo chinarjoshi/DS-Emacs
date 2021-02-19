@@ -52,7 +52,6 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -136,7 +135,7 @@ Any contributions to extend features are **greatly appreciated**.
 
 Chinar Joshi - chinarjoshi7@gmail.com
 
-Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.com/cjoshi7/covid19-date-selector)
+Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.com/cjoshi7/DS-Emacs)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
