@@ -110,7 +110,10 @@ _For more examples, please refer to the [Documentation](https://github.com/china
 
 __See the [open issues](https://github.com/chinarjoshi/DS-Emacs) for a list of proposed features (and known issues).__
 
-Fix potential segmentation faults while unloading full data structure and exporting changes.
+The following changes will be implemented:
+
+- Fix potential segfault while unloading full data structure and exporting changes.
+- Add support for more file types while importing file.
 
 <!-- CONTRIBUTING -->
 ## Contributing
