@@ -18,14 +18,14 @@
   <p align="center">
     Edit abstract data structures through vim-inspired commands on the terminal
     <br />
-    <a href="https://github.com/cjoshi7/DS-Emacs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/chinarjoshi/DS-Emacs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://youtu.be/r9-8qcNwKmk">View Demo</a>
     ·
-    <a href="https://github.com/cjoshi7/DS-Emacs">Report Bug</a>
+    <a href="https://github.com/chinarjoshi/DS-Emacs">Report Bug</a>
     ·
-    <a href="https://github.com/cjoshi7/DS-Emacs">Request Feature</a>
+    <a href="https://github.com/chinarjoshi/DS-Emacs">Request Feature</a>
   </p>
 </p>
 
@@ -72,7 +72,7 @@ It was quite frustrating to manage every single part of memory through the segfa
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/cjoshi7/DS-Emacs
+   git clone https://github.com/chinarjoshi/DS-Emacs
    ```
 2. Run the precompiled binary
    ```sh
@@ -84,7 +84,7 @@ It was quite frustrating to manage every single part of memory through the segfa
 ## Usage
 
 <p align="center">
-  <a href="https://github.com/cjoshi7/DS-Emacs">
+  <a href="https://github.com/chinarjoshi/DS-Emacs">
     <img src="images/demo.png" alt="example-image" width=450 height=575>
   </a>
 </p>
@@ -103,14 +103,12 @@ The following commands have been implemented to edit data structures:
 :q! (exit)
 ```
 
-_For more examples, please refer to the [Documentation](https://github.com/cjoshi7/meteorological-query-tool)_
-
-
+_For more examples, please refer to the [Documentation](https://github.com/chinarjoshi/DS-Emacs)_
 
 <!-- ROADMAP -->
 ## Roadmap
 
-__See the [open issues](https://github.com/cjoshi7/DS-Emacs) for a list of proposed features (and known issues).__
+__See the [open issues](https://github.com/chinarjoshi/DS-Emacs) for a list of proposed features (and known issues).__
 
 Fix potential segmentation faults while unloading full data structure and exporting changes.
 
@@ -130,7 +128,9 @@ Any contributions to extend features are **greatly appreciated**.
 
 Chinar Joshi - chinarjoshi7@gmail.com
 
-Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.com/cjoshi7/DS-Emacs)
+Project Link: [https://github.com/chinarjoshi/covid19-date-selector](https://github.com/chinarjoshi/DS-Emacs)
+
+Linkedin: https://linkedin.com/in/chinar-joshi-905493207/
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
