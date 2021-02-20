@@ -35,9 +35,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -64,22 +61,17 @@
   </a>
 </p>
 
-This is a C++ terminal application made to familiarize myself with abstract data structures and the concept of computational complexity. The purpose is to replicate the standard template library's hash table and create a trie from scratch.
+### Inspiration
+While exploring the C++ standard template library, I became curious enough to want to implement some of the containers and iterables myself, so I created a set of editing macros that manage big data sets in the fastest asymptotic time possible.
 
 ### What it does
-This application allows the user to manipulate massive data sets with vim-inspired macros.
+This application allows the user to manipulate big data sets with vim-inspired macros in the terminal. They choose between a trie for O(1) search, insertion, and deletion, or hashmap for O(n) search and deletion and O(1) insertion.
 
 ### How I built it
-This application is built using Dash with Python, the Plotly library to generate the choropleth map, and the Bootstrap framework to quickly develop the CSS. The New York Time's COVID-19 dataset was used along with a JSON map of the United States from Plotly.
+Only the C++ standard library is used to implement all features. All memory is manually allocated and freed per the standard template library implementations.
 
 ### Challenges I ran into
-It was difficult to actually find the data in a usable form online, because it was either fragmented or contained irrelevant data to my purpose. This introduced me to the pandas libraries to clean and filter the dataset. I've also never worked with visualizations of datasets before, so the hardest part was actually starting.
-
-### Accomplishments that I'm proud of
-I created my first deployable web API and made a visually appealing application to solve a real world problem, while introducing me to data science concepts along the way.
-
-### What I learned
-I learned the fundamentals of data science through cleaning and filtering data and how to make useful visualizations by taking advantage of python's many data science libraries. I also learned how to use a new web application framework with Dash.
+Through the segmentation faults and lost memory sectors during developmentt, it was quite frustrating to manage every part of the 
 
 ## Getting Started
 
@@ -107,20 +99,7 @@ _For more examples, please refer to the [Documentation](https://github.com/cjosh
 
 __See the [open issues](https://github.com/cjoshi7/DS-Emacs) for a list of proposed features (and known issues).__
 
-## TODO ##
-* Manipulate the DOM using jQuery and AJAX calls. When the submit button is pressed, make a GET request to the server using the input fields.
-    * PROBLEM: When the HTML form is submitted, the corresponding JS event listener doesnot reccognize the event, likely due to syntax error because of confusion between element vs id JS syntax. Figure out how to properly select DOM elements.
-* Allow a range of dates to be selected on the HTML file and render coordinate plot using the database response. Use this instead of table.
-* Change the padding and color of the Bootstrap classes in styles.css to center the input fields and make the background sky blue.
-<br>
-
-The following features will be implemented in the indefinite future:
-1. Expanded dataset to include:
-    - Mask usage
-    - Population Density
-    - Demographic breakdown
-2.  Dark theme
-3.  An option to use the program in the command line
+Fix potential segmentation faults while unloading full data structure and exporting changes.
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -142,7 +121,7 @@ Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Virus Icon](https://dndi.org/diseases/covid-19/target-product-profile/)
+* [Binary Tree Icon](https://dndi.org/diseases/covid-19/target-product-profile/)
 * [Readme Template](https://github.com/othneildrew/Best-README-Template)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
