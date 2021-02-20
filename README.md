@@ -55,12 +55,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center">
-  <a href="https://github.com/cjoshi7/DS-Emacs">
-    <img src="images/demo.png" alt="example-image" width=450 height=575>
-  </a>
-</p>
-
 ### Inspiration
 While exploring the C++ standard template library, I became curious enough to want to implement some of the containers and iterables myself, so I created a set of editing macros that manage big data sets in the fastest asymptotic time possible.
 
@@ -87,6 +81,12 @@ Through the segmentation faults and lost memory sectors during developmentt, it 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+<p align="center">
+  <a href="https://github.com/cjoshi7/DS-Emacs">
+    <img src="images/demo.png" alt="example-image" width=450 height=575>
+  </a>
+</p>
 
 This tool can be used for research purposes to find the exact number of cases in a specific county on any day. It is useful to see the patterns of infection and death rate increases/decreases. For example, it can be seen that the number of infections skyrocketed in early January after the holiday season. The tool is useful for establishing patterns such as this.
 
