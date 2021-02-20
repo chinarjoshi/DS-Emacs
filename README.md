@@ -90,8 +90,19 @@ It was quite frustrating to manage every single part of memory through the segfa
   </a>
 </p>
 
-The following commands have been implemented to edit data structures.
-:
+The following commands have been implemented to edit data structures:
+```
+:e <file> (open text file to edit)
+/<key> (search for key)
+:insert <key value>
+:rm <key>
+:s <key value> (substitute new value for key)
+:help
+:w (save changes)
+:wq (save changes and close file)
+:q (close file)
+:q! (exit)
+```
 
 _For more examples, please refer to the [Documentation](https://github.com/cjoshi7/meteorological-query-tool)_
 
