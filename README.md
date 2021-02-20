@@ -137,11 +137,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Chinar Joshi - chinarjoshi7@gmail.com
+Chinar Joshi - chinarjoshi7@gmail.com - [Linkedin](https://linkedin.com/in/chinar-joshi-905493207/)
 
-Project Link: [https://github.com/chinarjoshi/covid19-date-selector](https://github.com/chinarjoshi/DS-Emacs)
+Project Link: [Github](https://github.com/chinarjoshi/DS-Emacs)
 
-Linkedin: https://linkedin.com/in/chinar-joshi-905493207/
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
