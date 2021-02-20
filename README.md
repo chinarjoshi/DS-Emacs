@@ -56,7 +56,7 @@
 ## About The Project
 
 ### Inspiration
-While exploring the C++ standard template library, I became curious enough to want to implement some of the containers and iterables myself, so I created a set of editing macros that manage big data sets in the fastest asymptotic time possible.
+While exploring the C++ standard template library, I became curious enough to want to implement some of the containers and iterators myself, so I created a set of editing macros that manage big data sets in the fastest asymptotic time possible.
 
 ### What it does
 This application allows the user to manipulate big data sets with vim-inspired macros in the terminal. They choose between a trie for O(1) search, insertion, and deletion, or hashmap for O(n) search and deletion and O(1) insertion.
@@ -65,9 +65,11 @@ This application allows the user to manipulate big data sets with vim-inspired m
 Only the C++ standard library is used to implement all features. All memory is manually allocated and freed per the standard template library implementations.
 
 ### Challenges I ran into
-Through the segmentation faults and lost memory sectors during developmentt, it was quite frustrating to manage every part of the 
+It was quite frustrating to manage every single part of memory through the segfaults and lost memory sectors duing the development cycle, but the end product is a very optimized set of data editing macros. I learned about data structures and search/insertion/deletion algoritms in the process.
 
 ## Getting Started
+
+### Installation
 
 1. Clone the repo
    ```sh
@@ -88,7 +90,8 @@ Through the segmentation faults and lost memory sectors during developmentt, it 
   </a>
 </p>
 
-This tool can be used for research purposes to find the exact number of cases in a specific county on any day. It is useful to see the patterns of infection and death rate increases/decreases. For example, it can be seen that the number of infections skyrocketed in early January after the holiday season. The tool is useful for establishing patterns such as this.
+The following commands have been implemented to edit data structures.
+:
 
 _For more examples, please refer to the [Documentation](https://github.com/cjoshi7/meteorological-query-tool)_
 
