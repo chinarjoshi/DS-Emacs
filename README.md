@@ -21,7 +21,7 @@
     <a href="https://github.com/chinarjoshi/DS-Emacs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://youtu.be/r9-8qcNwKmk">View Demo</a>
+    <a href="https://youtu.be/_txWoqk76nA">View Demo</a>
     ·
     <a href="https://github.com/chinarjoshi/DS-Emacs">Report Bug</a>
     ·
