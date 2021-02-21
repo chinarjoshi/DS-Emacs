@@ -23,9 +23,9 @@
     <br />
     <a href="https://youtu.be/_txWoqk76nA">View Demo</a>
     ·
-    <a href="https://github.com/chinarjoshi/DS-Emacs">Report Bug</a>
+    <a href="https://github.com/chinarjoshi/DS-Emacs/issues">Report Bug</a>
     ·
-    <a href="https://github.com/chinarjoshi/DS-Emacs">Request Feature</a>
+    <a href="https://github.com/chinarjoshi/DS-Emacs/issues">Request Feature</a>
   </p>
 </p>
 
