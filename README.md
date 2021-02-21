@@ -91,18 +91,27 @@ It was quite frustrating to manage every single part of memory through the segfa
 </p>
 
 The following commands have been implemented to edit data structures:
-```
-:e <file> (open text file to edit)
-/<key> (search for key)
-:insert <key value> (insert key value pair)
-:rm <key> (remove key)
-:s <key value> (substitute new value for key)
-:help (list of commands)
-:w (save changes)
-:wq (save changes and close file)
-:q (close file)
-:q! (exit)
-```
+
+`:e <file>` -> open text file to edit
+
+`/<key>` -> search for key
+
+`:insert <key value>` -> insert key value pair
+
+`:rm <key>` -> remove key
+
+`:s <key value>` -> substitute new value for key
+
+`:help` -> list of commands
+
+`:w` -> save changes
+
+`:wq` -> save changes and close file
+
+`:q` -> close file
+
+`:q!` -> exit
+
 
 _For more examples, please refer to the [Documentation](https://github.com/chinarjoshi/DS-Emacs)_
 
