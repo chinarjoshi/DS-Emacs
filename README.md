@@ -62,7 +62,7 @@ While exploring the C++ standard template library, I became curious enough to wa
 This application allows the user to manipulate big data sets with vim-inspired macros in the terminal. They choose between a trie for O(1) search, insertion, and deletion, or hashmap for O(n) search and deletion and O(1) insertion.
 
 ### How I built it
-Only the C++ standard library is used to implement all features. All memory is manually allocated and freed per the standard template library implementations.
+Only the C++ standard library is used to implement all features. All memory is manually allocated and freed per the standard template library implementations. 
 
 ### Challenges I ran into
 It was quite frustrating to manage every single part of memory through the segfaults and lost memory sectors duing the development cycle, but the end product is a very optimized set of data editing macros. I learned about data structures and search/insertion/deletion algoritms in the process.
